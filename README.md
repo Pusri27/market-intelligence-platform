@@ -98,4 +98,4 @@ npm start
 
 ---
 
-*This project is engineered by [Your Name] to demonstrate Executive-Level capabilities in Frontend Architecture and System Design.*
+*This project is engineered by **[Pusri Ananda Handal](https://github.com/Pusri27)** to demonstrate Executive-Level capabilities in Frontend Architecture and System Design.*
