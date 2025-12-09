@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Bluetooth Earbuds",
+    "category": "Electronics",
+    "margin": 45,
+    "rating": 4.5,
+    "growth": 32,
+    "image": "/images/earbuds.jpg",
+    "trend": [10, 12, 15, 18, 20, 25, 40, 50, 60, 72, 80, 90],
+    "monthlySearchVolume": 12000,
+    "competitionScore": 0.6
+  },
+  {
+    "id": 2,
+    "name": "Portable Blender",
+    "category": "Home Appliance",
+    "margin": 55,
+    "rating": 4.2,
+    "growth": 22,
+    "image": "/images/blender.jpg",
+    "trend": [5, 6, 6, 10, 12, 15, 20, 28, 30, 40, 48, 55],
+    "monthlySearchVolume": 8000,
+    "competitionScore": 0.4
+  },
+  {
+    "id": 3,
+    "name": "LED Desk Lamp",
+    "category": "Furniture",
+    "margin": 35,
+    "rating": 4.7,
+    "growth": 15,
+    "image": "/images/lamp.jpg",
+    "trend": [7, 7, 8, 9, 10, 12, 16, 18, 22, 26, 29, 31],
+    "monthlySearchVolume": 5000,
+    "competitionScore": 0.3
+  },
+  {
+    "id": 4,
+    "name": "Yoga Mat",
+    "category": "Fitness",
+    "margin": 60,
+    "rating": 4.8,
+    "growth": 45,
+    "image": "/images/yoga-mat.jpg",
+    "trend": [15, 20, 25, 30, 40, 45, 50, 60, 75, 85, 95, 110],
+    "monthlySearchVolume": 15000,
+    "competitionScore": 0.7
+  },
+  {
+    "id": 5,
+    "name": "Smart Water Bottle",
+    "category": "Fitness",
+    "margin": 40,
+    "rating": 4.1,
+    "growth": 10,
+    "image": "/images/bottle.jpg",
+    "trend": [10, 10, 11, 12, 12, 13, 15, 15, 16, 17, 18, 18],
+    "monthlySearchVolume": 3000,
+    "competitionScore": 0.5
+  },
+  {
+    "id": 6,
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "margin": 30,
+    "rating": 4.9,
+    "growth": 25,
+    "image": "/images/keyboard.jpg",
+    "trend": [20, 22, 24, 28, 35, 40, 48, 55, 65, 70, 75, 85],
+    "monthlySearchVolume": 20000,
+    "competitionScore": 0.8
+  }
+]
