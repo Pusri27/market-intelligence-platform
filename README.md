@@ -66,7 +66,7 @@ Deterministic competitor analysis engine that generates comparative market data 
 
 ### Installation
 ```bash
-git clone [repo-url]
+git clone https://github.com/Pusri27/market-intelligence-platform.git
 cd product-research-dashboard
 npm install
 ```
