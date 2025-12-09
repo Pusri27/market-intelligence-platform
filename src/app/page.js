@@ -8,6 +8,8 @@ import { MotionDiv } from "@/components/ui/MotionDiv";
 import { ExecutiveSummary } from "@/components/ExecutiveSummary";
 import products from "@/data/products.json";
 
+export const dynamic = 'force-dynamic';
+
 export default function Home() {
   return (
     <div className="flex flex-col gap-6 w-full max-w-[1400px] mx-auto pb-10">
